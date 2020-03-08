@@ -1,0 +1,26 @@
+body {
+	background-color: cadetblue;
+}
+
+button {
+	background-color: cornflowerblue;
+	border-radius: 3rem;
+	line-height: 2rem;
+}
+
+h1 {
+	text-shadow: 1px 1px darkblue;
+}
+
+.winner {
+	color:green;
+}
+
+.container {
+	margin: 5rem auto;
+	max-width: 600px;
+	color: rgb(21, 17, 58);
+	background-color: darkgreen;
+	padding: 10% 10%;
+	border-radius: 3rem;
+}
